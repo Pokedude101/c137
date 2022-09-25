@@ -1,0 +1,25 @@
+body{
+    background-size: 100%;
+}
+
+.heading{
+    width: 100%;
+    background-color: yellow;
+    margin: 0;
+    color: black;
+}
+
+.footer{
+    width: 100%;
+    background-color: grey;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    height: 8.5%;
+}
+
+canvas{
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 5px 5px 5px white;
+}
